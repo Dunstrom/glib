@@ -1,1 +1,3 @@
-module github.com/greenkeytech/glib
+module github.com/lijo-jose/glib
+
+go 1.12
